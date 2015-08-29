@@ -1,0 +1,7 @@
+Ingredients:
+ - 1 bowl cereal
+ - 3 cups milk
+
+Directions:
+  1. Pour cereal into a bowl.
+  2. Pour milk into bowl
